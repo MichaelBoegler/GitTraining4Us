@@ -1,15 +1,16 @@
 Comments:
 - Michael: added basement
 - Michael: added a way to the house entry
+- Michael: added a chimney
 
 
          ^
         / \
-       /   \
-      /     \
-     /       \
-    /         \
-   /           \ 
+       /   \  ___
+      /     \ | |
+     /       \| |
+    /         \ |
+   /           \|
   /             \        /\
  /               \      /  \
 /                 \     \  /
