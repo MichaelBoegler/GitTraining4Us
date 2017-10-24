@@ -2,6 +2,9 @@ Comments:
 - Michael: added basement
 - JAM: add window
 - JAM: add fireplace
+- Michael: added a way to the house entry
+- Michael: added a chimney
+- JAM: keep both houses
 
 
 					   |  |
@@ -11,3 +14,25 @@ Comments:
 |			|	|	|
 |			-----   |
 |___________________|
+	|  |
+	|  |
+    |  | ^
+    |   / \
+    |  /   \  ___
+    | /     \ | |
+     /       \| |
+    /         \ |
+   /           \|
+  /             \
+ /               \
+/                 \
+-------------------
+|		   |
+|		   |
+|__________________|
+	    |	|
+	   /   /
+	  /   /
+	  |   |
+	  |   |
+
