@@ -1,8 +1,14 @@
 Comments:
 - Michael: added basement
+- Michael: added a way to the house entry
 
 
 ---------------------
 |					|
 |					|
 |___________________|
+		|	|
+	   /   /
+	  /   /
+	  |   |
+	  |   |
